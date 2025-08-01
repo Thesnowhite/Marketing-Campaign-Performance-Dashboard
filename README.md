@@ -29,10 +29,10 @@ The primary objectives of this dashboard are to:
 
 
 
-- Dataset From Kaggle after it has been cleaned,Transformed and Loaded into Power bi Desktop
+## Dataset From Kaggle after it has been cleaned,Transformed and Loaded into Power bi Desktop
   
   
-- <img width="1344" height="734" alt="Screenshot 2025-08-01 015409" src="https://github.com/user-attachments/assets/b4aeaa07-c75d-4448-a412-6c64445d5d94" />
+   <img width="1344" height="734" alt="Screenshot 2025-08-01 015409" src="https://github.com/user-attachments/assets/b4aeaa07-c75d-4448-a412-6c64445d5d94" />
 
 
 
@@ -65,11 +65,11 @@ The primary objectives of this dashboard are to:
 
     
 
-Here is the Marketing Champaign Performance Dashboard
+ ## Here is the Marketing Champaign Performance Dashboard
 
 
 
- <img width="1015" height="575" alt="Screenshot 2025-08-01 010103" src="https://github.com/user-attachments/assets/aee2afdd-1453-4f5a-9724-d55d7e66d593" />
+  <img width="1015" height="575" alt="Screenshot 2025-08-01 010103" src="https://github.com/user-attachments/assets/aee2afdd-1453-4f5a-9724-d55d7e66d593" />
 
  
 
