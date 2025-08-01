@@ -26,6 +26,12 @@ The primary objectives of this dashboard are to:
 - Provide actionable insights for optimizing future marketing strategies.
 
 
+- Dataset From Kaggle after it has been cleaned,Transformed and Loaded into Power bi Desktop
+- 
+- <img width="1344" height="734" alt="Screenshot 2025-08-01 015409" src="https://github.com/user-attachments/assets/b4aeaa07-c75d-4448-a412-6c64445d5d94" />
+<img width="741" height="434" alt="Screenshot 2025-08-01 015341" src="https://github.com/user-attachments/assets/9bea03c6-9b98-4db1-ada4-c1c143a1b63b" />
+<img width="530" height="415" alt="Screenshot 2025-08-01 015312" src="https://github.com/user-attachments/assets/a10ce40c-7255-45e6-be25-8afd0ee93826" />
+
 
 ##  Data Preparation & Process
 - Data Source - Sample dataset simulating global marketing campaign From Kaggle
@@ -35,6 +41,9 @@ The primary objectives of this dashboard are to:
  - Data aggregated by region and campaign type.
 - Visualization Tool - Power BI  
 - Slicers/Filters - Region and Campaign Type for dynamic analysis.
+
+- Here is the Marketing Champaign Performance Dashboard
+- 
 
 
 
@@ -46,7 +55,8 @@ The primary objectives of this dashboard are to:
   - Average ROI - 0.71  
   - Total Conversions – 678K
 
- 
+ <img width="1015" height="575" alt="Screenshot 2025-08-01 010103" src="https://github.com/user-attachments/assets/aee2afdd-1453-4f5a-9724-d55d7e66d593" />
+
 
 ##  Key Insights
 - Influencer Marketing had the highest ROI, suggesting strong performance for its spend.
